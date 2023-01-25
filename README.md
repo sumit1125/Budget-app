@@ -1,4 +1,4 @@
-## BUdget-app
+## Budget-app
 
 This is a budget tracking application built using HTML, CSS, and JavaScript. It utilizes modern JavaScript features such as ES6 syntax and various methods. The app is hosted on GitHub Pages.
 ## Features
